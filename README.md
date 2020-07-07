@@ -5,6 +5,8 @@ Python tutorials for CMS (Computational Materials Science)
 - 학습전 기본적인 파이썬 사용법(for 반복문, list, dictionary 등) 숙지 필요
 - 난이도가 어려워 해결이 안될경우 다른사람이 작성한 코드 참고는 지양
 - 예제 완성 후 서로 확인하여 효율적인 방법 공유
+#### 예제 일괄 다운로드 (및 업데이트)
+- <code>git clone </code>
 # 튜토리얼 목록
 ### 1. VASP 관련 파일 읽고 쓰기
 #### POSCAR
