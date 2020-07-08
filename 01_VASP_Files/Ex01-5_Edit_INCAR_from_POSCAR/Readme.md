@@ -13,3 +13,16 @@ LDAUL      0       2      2       2     0
 LDAUU      0    5.84   6.14    7.37     0
 LDAUJ      0       1      1       1     0
 </pre>
+
+# 예상결과물
+MAGMOM, LDAUL, LDAUU, LDAUJ 값이 수정된 INCAR
+<pre>
+...
+...
+MAGMOM           = 9*0.0 3*4.5 3*4.5 3*4.5 18*0.0
+...
+...
+LDAUL            = 0 2 2 2 0                     !   
+LDAUU            = 0 5.84 6.14 7.37 0            !   
+LDAUJ            = 0 1 1 1 0                     !   
+<pre>
