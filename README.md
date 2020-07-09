@@ -12,7 +12,7 @@ Python tutorials for CMS (Computational Materials Science)
 #### 쉬운 다운로드
 - 우측상단 녹색 버튼 (Code) 에서 Download - zip 파일 다운로드
 # 튜토리얼 목록
-### 1. VASP 관련 파일 읽고 쓰기
+### 1. VASP 관련 파일 읽고 쓰기 ([링크](https://github.com/91bsjun/cms_python_tuto/tree/master/01_VASP_Files))
 #### POSCAR
 예제 1-1) W 를 Mo 로 치환 후 저장하고 원본은 POSCAR.ori 로 백업     
 예제 1-2) Selective dynamics 가 적용된 POSCAR 파일 만들기
