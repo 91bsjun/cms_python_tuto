@@ -22,6 +22,5 @@ Python tutorials for CMS (Computational Materials Science)
 예제 1-4) ISIF=3, ISPIN=1, LCHARG=False, EDIFF=1E-05, PREC=Normal 로 수정 후  원본은 INCAR.ori 로 백업    
 예제 1-5) MAGMOM, LDAUL, LDAUU, LDAUJ 값이 설정 되지 않은 INCAR 파일 수정하기 (각 POSCAR 읽어서)    
 
-### 2. VASP 파일 읽고 쓰기 [심화]
-
-추후 업데이트 예정
+### 2. VASP 파일 읽고 쓰기 심화 ([링크](https://github.com/91bsjun/cms_python_tuto/tree/master/02_VASP_advanced))
+def 와 class 활용 및 외부모듈 이해
